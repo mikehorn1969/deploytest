@@ -1,0 +1,14 @@
+.venv
+.env
+.vscode
+*.xlsx
+*.docx
+colleague7.cfg
+launch.json
+**/__pycache__
+.pytest_cache
+sandbox.py
+sandbox
+*.log
+*.db
+migrations
